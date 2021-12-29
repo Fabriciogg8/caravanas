@@ -8,6 +8,6 @@ Dentro de los establecimientos se pueden hacer lecturas, con distitnas finalidad
 
 Este código en python se puede utilizar para comparar distintas lecturas. De esta manera podemos saber en que lote o grupo de animales se encontraba el que acabamos de leer, al compararlo con una lectura anterior.  
 
-** setup.py ** : Este archivo compara la lectura actual con la original, y nos dice cuantos animales de la lectura actual se encuentran en la lectura original. 
+**setup.py** : Este archivo compara la lectura actual con la original, y nos dice cuantos animales de la lectura actual se encuentran en la lectura original. 
 
-** main.py ** : Este archivo compara distintas lecturas y finalmente nos retorna la cantidad de animales del grupo inicial que NO fueron leídos. 
+**main.py** : Este archivo compara distintas lecturas y finalmente nos retorna la cantidad de animales del grupo inicial que NO fueron leídos. 
